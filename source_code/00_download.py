@@ -77,5 +77,5 @@ for month in config.MONTHS:
 
 ridership_folder = os.path.join(config.RAW_DIR, "ridership")
 os.makedirs(ridership_folder, exist_ok=True)
-for month in config.MONTHS[:1]:
+for month in config.MONTHS:
     download_ridership_month(month, ridership_folder)
