@@ -4,7 +4,7 @@
 
 We start with ridership tables : we took july 2024 as a working example
 
-|1 | ridership | Ridership station complex ID is stored as a text while the complex_id in the stations table is a number so this will create a problem of matching in the join | all rows (2 156 907) | we should convert the station_comple_id to a number before joining the two tables and we count the rows that fail in the coversion 
+|1 | ridership | Ridership station complex ID is stored as a text while the complex_id in the stations table is a number so this will create a problem of matching in the join | all rows (2 156 907) | we should convert the station_comple_id to a number before joining the two tables and we count the rows that fail in the conversion 
 |
 
 |2 | ridership | ridership meaning the number of people is a decimal number (for example 3.0 , 1.0 etc) instead of a whole number | all rows (2 156 907) | We sould check that no value has decimals for example 2.5 or 3.1 etc and that no value is negative, then we convert to a whole number |
@@ -41,7 +41,7 @@ Now we move on to the stations table
 
 Now we joing check the ridership table with the stations table: 
 
-| 10 | ridership and stations | join check: 0 ridership complexes without a station; 21 station complexes without subway ridership = the Staten Island Railway which are out of scope | 0 lost | Since there is no problem here we can join on complex_id after converting it to a number |
+| 10 | ridership and stations | join check: 0 ridership complexes without a station; 21 station complexes without subway ridership = the Staten Island Railway which are out of scope because it's a train station not a subway station | 0 lost | Since there is no problem here we can join on complex_id after converting it to a number |
 
 
 
@@ -51,5 +51,9 @@ Now we move on the the weather table
 | 11 | weather | Very Iportant issue:  the DATE is in Local Standard Time (UTC−5 all year), not New York clock time: in July DATE 00:51 = 05:51 UTC = 01:51 New York time | all | convert: DATE + 5 h = UTC, then UTC → New York time, before joining with ridership |
 | 12 | weather | The weather file has 4 kinds of rows, not only hourly reports. We need one report per hour, but the file also contains extra reports when the weather changes quickly (FM-16), one summary per day (SOD) and one summary for the month (SOM). | 221 extra rows (189 + 31 + 1); 744 hourly rows that we should keep | Keep only the normal hourly reports (FM-15), so each hour has exactly one weather report. |
 | 13 | weather | HourlyPrecipitation contains the letter "T" ( it means trace: rain too small to measure, under 0.1 mm) inside a column of numbers | it exists in 50 rows | replace "T" by 0 mm, then convert the column to a number |
+
+| – | weather | checked (July): all 744 hourly reports have a rain value | 0 | check again on the full year (missing values may appear in other months) |
+| – | weather | checked (July): temperature 17.8–33.9 °C, none missing | 0 | nothing to do |
+| – | ridership + weather | TO CHECK with the full year: the clock-change days (2024-11-03, 2025-03-09) and missing weather hours | ? | check after the full download |
 
 
