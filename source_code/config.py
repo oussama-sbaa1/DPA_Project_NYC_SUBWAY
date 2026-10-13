@@ -21,6 +21,10 @@ RAW_DIR = "data/raw"
 STATIONS_URL = "https://data.ny.gov/api/views/39hk-dx4f/rows.csv?accessType=DOWNLOAD"
 WEATHER_URL = "https://www.ncei.noaa.gov/access/services/data/v1?dataset=local-climatological-data-v2&stations=USW00094728&startDate={start}&endDate={end}&format=csv"
 
+RIDERSHIP_API = "https://data.ny.gov/resource/{dataset}"
+PAGE_SIZE = 1000000
+
+
 # The MTA publishes hourly ridership as one dataset per period:
 # our window (Jul 2024 - Jun 2025) needs both of them.
 def ridership_dataset_for(month):
