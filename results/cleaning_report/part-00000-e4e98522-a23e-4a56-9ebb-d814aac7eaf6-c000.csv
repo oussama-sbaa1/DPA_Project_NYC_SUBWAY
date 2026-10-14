@@ -1,0 +1,10 @@
+table,step,rows_before,rows_after
+ridership,R1 keep the subway only,29375687,29145131
+ridership,R2 drop missing or negative values,29145131,29145131
+ridership,R3 station id text -> integer,29145131,29145131
+ridership,R4 drop the hour that does not exist (2025-03-09 02:00),29145131,29143881
+ridership,R5 drop duplicate rows,29143881,29143881
+ridership,R6 one row per station and hour,29143881,3620146
+stations,S2 one row per station complex,496,445
+weather,W1 keep the hourly reports FM-15,11765,8771
+weather,W4 one row per New York hour,8771,8704
