@@ -1,0 +1,13 @@
+## Part 1 — NYC Subway Ridership and Weather Analysis
+
+We analyzed the relationship between weather conditions and NYC subway ridership using PySpark. We loaded the Silver Parquet datasets containing hourly station ridership, station-complex information, and hourly weather observations.
+
+First, we aggregated station-level ridership to calculate total network ridership for each hour. We joined these hourly totals with the weather dataset using timestamps, excluding weather records with missing condition labels.
+
+Next, we established a baseline for normal ridership by calculating the average ridership during dry weather for comparable months, days of the week, and hours. We compared observed ridership during light rain, heavy rain, and snow with the expected baseline to calculate percentage changes.
+
+We extended the analysis to the Bronx, Brooklyn, Manhattan, and Queens to investigate geographical differences. We created and saved two visualizations: one showing network-wide changes and another comparing weather effects across boroughs.
+
+The initial results indicated lower ridership during rain and snow across most areas, with some differences between boroughs. For example, the Bronx showed an estimated 10.3% decrease during heavy rain, while Manhattan showed a small 3.2% increase. These findings are observational associations and do not establish causation.
+
+Finally, we saved the aggregated results as Parquet and CSV outputs, saved both charts as PNG files, and checked weather-data quality, including missing condition labels and duplicate records.

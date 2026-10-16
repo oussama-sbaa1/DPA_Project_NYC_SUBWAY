@@ -1,0 +1,17 @@
+borough,condition,hours,observed,expected,change
+Brooklyn,heavy rain,110,2874418,3047762,-5.7
+Queens,light rain,454,8935077,9330861,-4.2
+Bronx,heavy rain,110,799556,891269,-10.3
+Manhattan,heavy rain,110,8682315,8411852,3.2
+Brooklyn,light rain,454,13470894,14053542,-4.1
+Bronx,dry,7753,76493615,76493615,0.0
+Queens,dry,7753,166091623,166091623,0.0
+Queens,snow,64,912525,998392,-8.6
+Manhattan,snow,64,4501254,4598855,-2.1
+Manhattan,dry,7753,625071370,625071370,0.0
+Bronx,light rain,454,4126613,4283930,-3.7
+Brooklyn,dry,7753,247751553,247751553,0.0
+Bronx,snow,64,412144,452802,-9.0
+Queens,heavy rain,110,1854976,1997798,-7.1
+Brooklyn,snow,64,1475501,1615538,-8.7
+Manhattan,light rain,454,35755940,35878363,-0.3

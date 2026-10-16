@@ -1,0 +1,19 @@
+## Limitations of the Analysis
+
+1. **Missing weather labels:** Of the 8,704 hourly weather records, 317 had missing weather-condition labels. These records were excluded from the analysis, leaving 8,387 records with known conditions.
+
+2. **Limited baseline observations:** Normal ridership was estimated by averaging dry-weather observations for the same month, day of the week, and hour. Some combinations had only one dry observation, making their baseline less reliable.
+
+3. **Unequal weather representation:** The dataset contained many more dry and light-rain observations than snow observations. Therefore, the weather categories do not have equally strong evidence.
+
+4. **Observational analysis, not causal inference:** The results show associations between weather and ridership, but do not prove that weather caused the observed changes.
+
+5. **Potential confounding factors:** Ridership may also be affected by holidays, service disruptions, special events, seasonal travel patterns, and other factors that were not controlled for in the analysis.
+
+6. **Weather classification limitations:** Grouping observations into dry, light rain, heavy rain, and snow simplifies weather conditions. It does not fully represent rainfall intensity, duration, or other environmental factors.
+
+7. **Geographical coverage:** The borough-level analysis covers the Bronx, Brooklyn, Manhattan, and Queens. Staten Island Railway complexes were excluded from the subway ridership dataset, so the findings do not represent every part of New York City's rail network.
+
+8. **Baseline sensitivity:** The estimated percentage changes depend on how the dry-weather baseline is calculated. Because some baseline groups contain few observations, the results should be interpreted cautiously.
+
+9. **Limited scope of the analysis:** The analysis measures changes in ridership, not the full operational impact of bad weather. It does not directly measure delays, crowding, cancellations, or passenger experiences.

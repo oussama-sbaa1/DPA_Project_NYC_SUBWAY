@@ -1,0 +1,58 @@
+.Load the cleaned data
+We need to combine information about subway usage, station locations, and weather to investigate our question
+
+
+.Calculate total network ridership per hour
+The Silver station_hour table has one row per station complex per hour. To study the whole subway network, we need to add all stations' ridership together for each timestamp
+For example, if the ridership at three stations at 08:00 is 500, 700, and 300, this calculation produces a network total of 1,500 riders for 08:00
+
+
+.Match ridership with weather
+Each row now tells us both how many people used the subway and what the weather was at that time
+
+
+.Add month, day of week, and hour WHY??
+[Without them, we might compare a rainy Monday morning with a dry Sunday night. If ridership differs, we wouldn't know whether the difference was related to weather or simply to the time] just to compare similer timeperiods to make exact comparisons
+
+Subway usage naturally changes with time. A Monday morning rush hour isn't comparable to a Sunday night. These columns help us compare more similar periods rather than making a misleading comparison
+
+.Estimate what ridership would normally be
+use normal as our baseline to compare it with rainy or snowy days
+
+
+.Measure the difference
+We compare the observed ridership with the estimated normal ridership     ((obs - expc)/expc)*100
+
+
+.Repeat the analysis for each borough
+
+Connect each station to its borough
+Calculate hourly ridership for each borough
+Match borough ridership with weather
+
+
+### Initial findings: Weather and NYC subway ridership
+
+The analysis compares observed subway ridership during different weather conditions with expected ridership estimated from dry-weather observations for the same month, day of the week, and hour.
+
+At the network level, the initial results indicate lower ridership during light rain, heavy rain, and snow. The estimated decreases are 2.0%, 1.0%, and 4.8%, respectively.
+
+The borough-level results show that the relationship varies by location. The Bronx has the largest estimated decrease during heavy rain (10.3%) and snow (9.0%). Snow is associated with lower ridership in all four boroughs. In contrast, Manhattan has a small positive estimate during heavy rain (+3.2%) and almost no change during light rain (−0.3%).
+
+These findings represent associations rather than proof of causation. The baseline uses all available dry-weather observations, and some month/day/hour combinations may have few observations. Other factors, such as holidays, service disruptions, and seasonal travel patterns, may also influence ridership.
+
+
+
+### Data quality and analysis exclusions
+
+The Silver tables used in this analysis contain 3,620,146 station-hour ridership records, 445 station-complex reference records, and 8,704 hourly weather records.
+
+Of the weather records, 317 have a missing `condition` value, while 8,387 have a known condition. The analysis excludes the 317 records with missing weather labels because they cannot be reliably categorized as dry, light rain, heavy rain, or snow. These records remain in the underlying weather table; they are excluded from the weather-effect analysis rather than deleted from the source data.
+
+The station-hour and station-complex tables are used to aggregate ridership at the network and borough levels. Additional quality checks are needed to document duplicate records, missing values in other relevant columns, timestamp validity, and identifier consistency. Any records removed or modified by those checks should be counted and the reasons documented.
+
+
+
+
+
+

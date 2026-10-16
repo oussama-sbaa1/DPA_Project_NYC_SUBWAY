@@ -1,0 +1,5 @@
+condition,hours,observed,expected,change
+dry,7753,1115408161,1115408161,0.0
+light rain,454,62288524,63546695,-2.0
+heavy rain,110,14211265,14348680,-1.0
+snow,64,7301424,7665587,-4.8
