@@ -86,7 +86,7 @@ then in the Kernel menu click Kernel → Shut Down All Kernels before opening th
 
 Repository structure
 
-\- `source\_code/`: the notebooks explore\_one\_month.ipynb which is our first exploration of July 2024, 00\_download.ipynb, 01\_ingest.ipynb, 02\_clean.ipynb, 03\_analyse\_station.ipynb, 04\_analyse weather.ipynb
+\- `source_code/`: the notebooks explore\_one\_month.ipynb which is our first exploration of July 2024, 00\_download.ipynb, 01\_ingest.ipynb, 02\_clean.ipynb, 03\_analyse\_station.ipynb, 04\_analyse weather.ipynb
 
 \- `documentation/`: the proposal NYC\_Subway\_Proposal\_OnePage and problems\_log.md containing the data problems we found
 
