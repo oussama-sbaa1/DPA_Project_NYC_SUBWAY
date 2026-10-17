@@ -1,0 +1,425 @@
+complex_id,complex_name,borough,total_riders,riders_per_day
+611,Times Sq-42 St,Manhattan,47368725,129777.0
+610,Grand Central-42 St,Manhattan,35083558,96119.0
+607,34 St-Herald Sq,Manhattan,25849995,70822.0
+602,14 St-Union Sq,Manhattan,23798419,65201.0
+628,Fulton St,Manhattan,19940111,54630.0
+164,34 St-Penn Station,Manhattan,19298760,52873.0
+318,34 St-Penn Station,Manhattan,17646637,48347.0
+614,59 St-Columbus Circle,Manhattan,17189584,47095.0
+447,Flushing-Main St,Queens,15010250,41124.0
+616,Jackson Hts-Roosevelt Av,Queens,14792225,40527.0
+624,World Trade Center,Manhattan,13740498,37645.0
+225,47-50 Sts-Rockefeller Ctr,Manhattan,13143605,36010.0
+612,Lexington Av/53 St,Manhattan,12978497,35558.0
+609,5 Av,Manhattan,12567421,34431.0
+618,8 Av,Manhattan,11942635,32720.0
+613,Lexington Av/59 St,Manhattan,11917645,32651.0
+167,W 4 St-Wash Sq,Manhattan,11436971,31334.0
+623,Canal St,Manhattan,11412418,31267.0
+397,86 St,Manhattan,11125227,30480.0
+617,Atlantic Av-Barclays Ctr,Brooklyn,10983418,30092.0
+601,6 Av,Manhattan,10963150,30036.0
+619,Broadway-Lafayette St,Manhattan,10560954,28934.0
+313,72 St,Manhattan,9935992,27222.0
+120,Bedford Av,Brooklyn,9457364,25911.0
+636,Jay St-MetroTech,Brooklyn,8598080,23556.0
+310,96 St,Manhattan,8554137,23436.0
+9,57 St-7 Av,Manhattan,8502922,23296.0
+477,72 St,Manhattan,7465946,20455.0
+625,Delancey St-Essex St,Manhattan,7456377,20428.0
+119,1 Av,Manhattan,7004726,19191.0
+10,49 St,Manhattan,6903816,18915.0
+279,Sutphin Blvd-Archer Av-JFK Airport,Queens,6887367,18869.0
+635,Whitehall St-South Ferry,Manhattan,6882450,18856.0
+278,Jamaica Center-Parsons/Archer,Queens,6785012,18589.0
+604,161 St-Yankee Stadium,Bronx,6629968,18164.0
+451,Junction Blvd,Queens,6619911,18137.0
+620,Court St,Brooklyn,6523757,17873.0
+398,77 St,Manhattan,6487767,17775.0
+471,34 St-Hudson Yards,Manhattan,6376452,17470.0
+403,33 St,Manhattan,6342799,17378.0
+606,Court Sq-23 St,Queens,6315125,17302.0
+228,23 St,Manhattan,6250065,17123.0
+316,50 St,Manhattan,6192640,16966.0
+622,Chambers St,Manhattan,6172650,16911.0
+153,125 St,Manhattan,6165185,16891.0
+476,86 St,Manhattan,6134119,16806.0
+450,103 St-Corona Plaza,Queens,6076807,16649.0
+261,Forest Hills-71 Av,Queens,6069104,16628.0
+405,23 St-Baruch College,Manhattan,5920015,16219.0
+231,Grand St,Manhattan,5869839,16082.0
+392,125 St,Manhattan,5821091,15948.0
+162,50 St,Manhattan,5670110,15535.0
+630,Myrtle-Wyckoff Avs,Brooklyn,5633213,15433.0
+345,Crown Hts-Utica Av,Brooklyn,5457366,14952.0
+605,168 St-Washington Hts,Manhattan,5438052,14899.0
+26,DeKalb Av,Brooklyn,5354176,14669.0
+399,68 St-Hunter College,Manhattan,5208320,14269.0
+414,Bowling Green,Manhattan,5179716,14191.0
+259,Kew Gardens-Union Tpke,Queens,5160158,14137.0
+151,145 St,Manhattan,5130491,14056.0
+165,23 St,Manhattan,5051234,13839.0
+314,66 St-Lincoln Center,Manhattan,4960614,13591.0
+452,90 St-Elmhurst Av,Queens,4871611,13347.0
+404,28 St,Manhattan,4784279,13108.0
+14,23 St,Manhattan,4535220,12425.0
+223,Lexington Av/63 St,Manhattan,4484355,12286.0
+264,Woodhaven Blvd,Queens,4437513,12158.0
+629,Metropolitan Av,Brooklyn,4433263,12146.0
+277,7 Av,Manhattan,4404374,12067.0
+51,Kings Hwy,Brooklyn,4402770,12062.0
+333,Wall St,Manhattan,4392296,12034.0
+232,2 Av,Manhattan,4362254,11951.0
+265,Grand Av-Newtown,Queens,4353478,11927.0
+475,96 St,Manhattan,4353145,11926.0
+254,Jamaica-179 St,Queens,4217775,11556.0
+311,86 St,Manhattan,4198869,11504.0
+169,Canal St,Manhattan,4197201,11499.0
+327,Chambers St,Manhattan,4193608,11489.0
+276,5 Av/53 St,Manhattan,4176486,11442.0
+273,Queens Plaza,Queens,4139006,11340.0
+179,Nostrand Av,Brooklyn,4130321,11316.0
+407,Astor Pl,Manhattan,4126664,11306.0
+359,Flatbush Av-Brooklyn College,Brooklyn,4094750,11218.0
+434,3 Av-149 St,Bronx,4073782,11161.0
+464,Vernon Blvd-Jackson Av,Queens,4026985,11033.0
+16,8 St-NYU,Manhattan,4020460,11015.0
+456,61 St-Woodside,Queens,3976387,10894.0
+396,96 St,Manhattan,3960969,10852.0
+328,WTC Cortlandt,Manhattan,3919267,10738.0
+32,36 St,Brooklyn,3837089,10513.0
+8,5 Av/59 St,Manhattan,3766778,10320.0
+224,57 St,Manhattan,3706726,10155.0
+413,Wall St,Manhattan,3704409,10149.0
+312,79 St,Manhattan,3693619,10120.0
+235,York St,Brooklyn,3689432,10108.0
+58,Coney Island-Stillwell Av,Brooklyn,3687713,10103.0
+234,East Broadway,Manhattan,3684553,10095.0
+626,Franklin Av-Medgar Evers College,Brooklyn,3559048,9751.0
+1,Astoria-Ditmars Blvd,Queens,3500881,9591.0
+168,Spring St,Manhattan,3500475,9590.0
+159,81 St-Museum of Natural History,Manhattan,3473762,9517.0
+307,116 St-Columbia University,Manhattan,3401230,9318.0
+324,Houston St,Manhattan,3388085,9282.0
+320,23 St,Manhattan,3378440,9256.0
+409,Spring St,Manhattan,3308850,9065.0
+3,30 Av,Queens,3289150,9011.0
+181,Utica Av,Brooklyn,3280551,8988.0
+461,Queensboro Plaza,Queens,3273683,8969.0
+439,125 St,Manhattan,3235540,8864.0
+319,28 St,Manhattan,3224273,8834.0
+35,59 St,Brooklyn,3201114,8770.0
+17,Prince St,Manhattan,3192365,8746.0
+263,63 Dr-Rego Park,Queens,3190198,8740.0
+127,DeKalb Av,Brooklyn,3170617,8687.0
+323,Christopher St-Stonewall,Manhattan,3168886,8682.0
+266,Elmhurst Av,Queens,3131960,8581.0
+453,82 St-Jackson Hts,Queens,3119143,8546.0
+458,46 St-Bliss St,Queens,3115790,8536.0
+608,4 Av-9 St,Brooklyn,3045966,8345.0
+13,28 St,Manhattan,3021544,8278.0
+308,Cathedral Pkwy (110 St),Manhattan,2999351,8217.0
+4,Broadway,Queens,2956261,8099.0
+393,116 St,Manhattan,2946472,8073.0
+271,Steinway St,Queens,2919787,7999.0
+309,103 St,Manhattan,2917445,7993.0
+175,Hoyt-Schermerhorn Sts,Brooklyn,2892302,7924.0
+240,7 Av,Brooklyn,2891280,7921.0
+101,Marcy Av,Brooklyn,2863800,7846.0
+54,Sheepshead Bay,Brooklyn,2858813,7832.0
+71,8 Av,Brooklyn,2828636,7750.0
+237,Carroll St,Brooklyn,2810325,7700.0
+97,Myrtle Av,Brooklyn,2791815,7649.0
+449,111 St,Queens,2786918,7635.0
+236,Bergen St,Brooklyn,2741805,7512.0
+395,103 St,Manhattan,2730113,7480.0
+305,137 St-City College,Manhattan,2730112,7480.0
+158,86 St,Manhattan,2691676,7374.0
+38,86 St,Brooklyn,2680294,7343.0
+366,Parkchester,Bronx,2675718,7331.0
+160,72 St,Manhattan,2626185,7195.0
+2,Astoria Blvd,Queens,2575582,7056.0
+438,135 St,Manhattan,2544952,6972.0
+55,Brighton Beach,Brooklyn,2540304,6960.0
+126,Jefferson St,Brooklyn,2539806,6958.0
+221,21 St-Queensbridge,Queens,2538250,6954.0
+44,Church Av,Brooklyn,2521420,6908.0
+301,181 St,Manhattan,2460572,6741.0
+603,149 St-Hostos,Bronx,2433379,6667.0
+283,Greenpoint Av,Brooklyn,2422485,6637.0
+122,Graham Av,Brooklyn,2393589,6558.0
+173,High St,Brooklyn,2386957,6540.0
+303,157 St,Manhattan,2380126,6521.0
+459,40 St-Lowery St,Queens,2364919,6479.0
+42,Prospect Park,Brooklyn,2350768,6440.0
+284,Nassau Av,Brooklyn,2335738,6399.0
+394,110 St,Manhattan,2293340,6283.0
+147,175 St,Manhattan,2269832,6219.0
+337,Nevins St,Brooklyn,2259294,6190.0
+157,96 St,Manhattan,2247374,6157.0
+188,Euclid Av,Brooklyn,2246675,6155.0
+41,7 Av,Brooklyn,2224860,6096.0
+304,145 St,Manhattan,2223557,6092.0
+222,Roosevelt Island,Manhattan,2220178,6083.0
+243,Church Av,Brooklyn,2198238,6023.0
+47,Newkirk Plaza,Brooklyn,2184162,5984.0
+289,Bedford-Nostrand Avs,Brooklyn,2159533,5917.0
+440,116 St,Manhattan,2134581,5848.0
+448,Mets-Willets Point,Queens,2125111,5822.0
+371,Hunts Point Av,Bronx,2106898,5772.0
+146,181 St,Manhattan,2094083,5737.0
+356,Church Av,Brooklyn,2076330,5689.0
+306,125 St,Manhattan,2070494,5673.0
+34,53 St,Brooklyn,2061809,5649.0
+460,33 St-Rawson St,Queens,2026733,5553.0
+384,Burnside Av,Bronx,1998689,5476.0
+129,Halsey St,Queens,1966667,5388.0
+125,Morgan Av,Brooklyn,1944477,5327.0
+621,Broadway Junction,Brooklyn,1942875,5323.0
+382,Fordham Rd,Bronx,1941544,5319.0
+143,Inwood-207 St,Manhattan,1915271,5247.0
+28,Union St,Brooklyn,1894534,5191.0
+295,231 St,Bronx,1890524,5180.0
+426,E 180 St,Bronx,1864380,5108.0
+118,3 Av,Manhattan,1838868,5038.0
+33,45 St,Brooklyn,1837266,5034.0
+155,Cathedral Pkwy (110 St),Manhattan,1826689,5005.0
+98,Flushing Av,Brooklyn,1824784,4999.0
+177,Clinton-Washington Avs,Brooklyn,1823756,4997.0
+43,Parkside Av,Brooklyn,1820974,4989.0
+213,Fordham Rd,Bronx,1818919,4983.0
+329,Rector St,Manhattan,1818004,4981.0
+388,167 St,Bronx,1815440,4974.0
+321,18 St,Manhattan,1812814,4967.0
+36,Bay Ridge Av,Brooklyn,1808946,4956.0
+334,Clark St,Brooklyn,1801662,4936.0
+255,169 St,Queens,1800744,4934.0
+262,67 Av,Queens,1792648,4911.0
+124,Montrose Av,Brooklyn,1790158,4905.0
+340,Grand Army Plaza,Brooklyn,1771848,4854.0
+381,Kingsbridge Rd,Bronx,1749991,4794.0
+355,Winthrop St,Brooklyn,1746793,4786.0
+377,3 Av-138 St,Bronx,1735391,4754.0
+68,Bay Pkwy,Brooklyn,1730428,4741.0
+336,Hoyt St,Brooklyn,1727860,4734.0
+270,46 St,Queens,1723944,4723.0
+300,191 St,Manhattan,1708162,4680.0
+441,110 St-Malcolm X Plaza,Manhattan,1698381,4653.0
+123,Grand St,Brooklyn,1681651,4607.0
+256,Parsons Blvd,Queens,1647653,4514.0
+215,Tremont Av,Bronx,1628618,4462.0
+72,Fort Hamilton Pkwy,Brooklyn,1620637,4440.0
+76,Bay Pkwy,Brooklyn,1609831,4410.0
+457,52 St,Queens,1601366,4387.0
+299,Dyckman St,Manhattan,1601273,4387.0
+218,167 St,Bronx,1600275,4384.0
+430,Simpson St,Bronx,1588521,4352.0
+180,Kingston-Throop Avs,Brooklyn,1586601,4347.0
+52,Avenue U,Brooklyn,1585745,4345.0
+5,36 Av,Queens,1582666,4336.0
+192,Rockaway Blvd,Queens,1580736,4331.0
+358,Newkirk Av-Little Haiti,Brooklyn,1579853,4328.0
+269,Northern Blvd,Queens,1558329,4269.0
+95,Gates Av,Brooklyn,1544838,4232.0
+387,170 St,Bronx,1526505,4182.0
+154,116 St,Manhattan,1513940,4148.0
+424,Pelham Pkwy,Bronx,1511702,4142.0
+455,69 St,Queens,1511672,4142.0
+198,Howard Beach-JFK Airport,Queens,1496150,4099.0
+65,79 St,Brooklyn,1484623,4067.0
+46,Cortelyou Rd,Brooklyn,1451944,3978.0
+66,18 Av,Brooklyn,1446831,3964.0
+326,Franklin St,Manhattan,1445689,3961.0
+292,Fulton St,Brooklyn,1436727,3936.0
+379,Mosholu Pkwy,Bronx,1435841,3934.0
+144,Dyckman St,Manhattan,1426801,3909.0
+293,Van Cortlandt Park-242 St,Bronx,1413574,3873.0
+241,15 St-Prospect Park,Brooklyn,1413562,3873.0
+176,Lafayette Av,Brooklyn,1405464,3851.0
+30,Prospect Av,Brooklyn,1391131,3811.0
+195,Ozone Park-Lefferts Blvd,Queens,1382111,3787.0
+242,Fort Hamilton Pkwy,Brooklyn,1378508,3777.0
+346,Sutter Av-Rutland Rd,Brooklyn,1377633,3774.0
+210,Norwood-205 St,Bronx,1375030,3767.0
+77,Kings Hwy,Brooklyn,1364012,3737.0
+378,Woodlawn,Bronx,1363568,3736.0
+59,9 Av,Brooklyn,1355355,3713.0
+107,Broad St,Manhattan,1352521,3706.0
+96,Kosciuszko St,Brooklyn,1351707,3703.0
+211,Bedford Park Blvd,Bronx,1344744,3684.0
+627,Franklin Av,Brooklyn,1331807,3649.0
+94,Halsey St,Brooklyn,1322595,3624.0
+298,207 St,Manhattan,1316183,3606.0
+354,Sterling St,Brooklyn,1304627,3574.0
+50,Avenue M,Brooklyn,1301549,3566.0
+421,Gun Hill Rd,Bronx,1285515,3522.0
+109,Fresh Pond Rd,Queens,1282681,3514.0
+183,Rockaway Av,Brooklyn,1271437,3483.0
+360,Pelham Bay Park,Bronx,1258599,3448.0
+212,Kingsbridge Rd,Bronx,1256972,3444.0
+37,77 St,Brooklyn,1249876,3424.0
+39,Bay Ridge-95 St,Brooklyn,1246079,3414.0
+432,Prospect Av,Bronx,1245723,3413.0
+325,Canal St,Manhattan,1243455,3407.0
+49,Avenue J,Brooklyn,1243253,3406.0
+365,Castle Hill Av,Bronx,1239453,3396.0
+22,Rector St,Manhattan,1238173,3392.0
+369,Elder Av,Bronx,1231014,3373.0
+291,Clinton-Washington Avs,Brooklyn,1218354,3338.0
+341,Eastern Pkwy-Brooklyn Museum,Brooklyn,1210567,3317.0
+428,174 St,Bronx,1207861,3309.0
+74,18 Av,Brooklyn,1201335,3291.0
+67,20 Av,Brooklyn,1196903,3279.0
+290,Classon Av,Brooklyn,1186850,3252.0
+152,135 St,Manhattan,1185464,3248.0
+615,New Utrecht Av,Brooklyn,1184606,3245.0
+368,Morrison Av-Soundview,Bronx,1181606,3237.0
+20,City Hall,Manhattan,1164586,3191.0
+339,Bergen St,Brooklyn,1158283,3173.0
+182,Ralph Av,Brooklyn,1157922,3172.0
+258,Briarwood,Queens,1155605,3166.0
+288,Myrtle-Willoughby Avs,Brooklyn,1140291,3124.0
+352,New Lots Av,Brooklyn,1137622,3117.0
+189,Grant Av,Brooklyn,1137577,3117.0
+64,71 St,Brooklyn,1137390,3116.0
+385,176 St,Bronx,1133736,3106.0
+427,West Farms Sq-E Tremont Av,Bronx,1130890,3098.0
+280,Jamaica-Van Wyck,Queens,1121413,3072.0
+217,170 St,Bronx,1104717,3027.0
+383,183 St,Bronx,1104541,3026.0
+380,Bedford Park Blvd-Lehman College,Bronx,1095720,3002.0
+156,103 St,Manhattan,1089627,2985.0
+130,Wilson Av,Brooklyn,1084857,2972.0
+463,Hunters Point Av,Queens,1081218,2962.0
+376,Brook Av,Bronx,1080014,2959.0
+296,Marble Hill-225 St,Manhattan,1065717,2920.0
+286,Broadway,Brooklyn,1055398,2892.0
+75,20 Av,Brooklyn,1053776,2887.0
+45,Beverley Rd,Brooklyn,1048500,2873.0
+348,Rockaway Av,Brooklyn,1046393,2867.0
+357,Beverly Rd,Brooklyn,1036955,2841.0
+347,Saratoga Av,Brooklyn,1033875,2833.0
+344,Kingston Av,Brooklyn,1030755,2824.0
+433,Jackson Av,Bronx,1018147,2789.0
+53,Neck Rd,Brooklyn,1017217,2787.0
+257,Sutphin Blvd,Queens,1016329,2784.0
+110,Forest Av,Queens,1013663,2777.0
+373,E 149 St,Bronx,987966,2707.0
+294,238 St,Bronx,982725,2692.0
+238,Smith-9 Sts,Brooklyn,979210,2683.0
+99,Lorimer St,Brooklyn,976558,2676.0
+386,Mt Eden Av,Bronx,976295,2675.0
+145,190 St,Manhattan,974728,2670.0
+69,25 Av,Brooklyn,971678,2662.0
+60,Fort Hamilton Pkwy,Brooklyn,971712,2662.0
+83,Woodhaven Blvd,Queens,960608,2632.0
+113,Knickerbocker Av,Brooklyn,944628,2588.0
+138,Canarsie-Rockaway Pkwy,Brooklyn,941742,2580.0
+214,182-183 Sts,Bronx,918629,2517.0
+190,80 St,Queens,917758,2514.0
+78,Avenue U,Brooklyn,909863,2493.0
+391,138 St-Grand Concourse,Bronx,909223,2491.0
+6,39 Av-Dutch Kills,Queens,908267,2488.0
+103,Bowery,Manhattan,902767,2473.0
+149,163 St-Amsterdam Av,Manhattan,902588,2473.0
+108,Middle Village-Metropolitan Av,Queens,901328,2469.0
+114,Central Av,Brooklyn,898159,2461.0
+416,Wakefield-241 St,Bronx,895673,2454.0
+429,Freeman St,Bronx,887150,2431.0
+363,Westchester Sq-E Tremont Av,Bronx,881238,2414.0
+216,174-175 Sts,Bronx,875718,2399.0
+31,25 St,Brooklyn,874974,2397.0
+444,Gun Hill Rd,Bronx,871663,2388.0
+87,Crescent St,Brooklyn,846041,2318.0
+423,Allerton Av,Bronx,845875,2317.0
+343,Nostrand Av,Brooklyn,842798,2309.0
+244,Ditmas Av,Brooklyn,830894,2276.0
+367,St Lawrence Av,Bronx,826762,2265.0
+268,65 St,Queens,812232,2225.0
+350,Pennsylvania Av,Brooklyn,809985,2219.0
+272,36 St,Queens,808519,2215.0
+250,Kings Hwy,Brooklyn,789802,2164.0
+361,Buhre Av,Bronx,785460,2152.0
+85,75 St-Elderts Ln,Queens,785117,2151.0
+442,Eastchester-Dyre Av,Bronx,782798,2145.0
+353,President St-Medgar Evers College,Brooklyn,781949,2142.0
+260,75 Av,Queens,774561,2122.0
+61,50 St,Brooklyn,774590,2122.0
+418,233 St,Bronx,771544,2114.0
+245,18 Av,Brooklyn,770047,2110.0
+136,New Lots Av,Brooklyn,761624,2087.0
+48,Avenue H,Brooklyn,751986,2060.0
+436,Harlem-148 St,Manhattan,714788,1958.0
+56,Ocean Pkwy,Brooklyn,708640,1941.0
+372,Longwood Av,Bronx,695262,1905.0
+100,Hewes St,Brooklyn,695039,1904.0
+209,Far Rockaway-Mott Av,Queens,691674,1895.0
+134,Sutter Av,Brooklyn,671933,1841.0
+287,Flushing Av,Brooklyn,665438,1823.0
+437,145 St,Manhattan,656482,1799.0
+111,Seneca Av,Queens,646594,1771.0
+70,Bay 50 St,Brooklyn,643238,1762.0
+57,W 8 St-NY Aquarium,Brooklyn,640778,1756.0
+93,Chauncey St,Brooklyn,639113,1751.0
+135,Livonia Av,Brooklyn,626857,1717.0
+186,Van Siclen Av,Brooklyn,622161,1705.0
+419,225 St,Bronx,617517,1692.0
+445,Pelham Pkwy,Bronx,610929,1674.0
+375,Cypress Av,Bronx,608237,1666.0
+90,Van Siclen Av,Brooklyn,608097,1666.0
+431,Intervale Av,Bronx,607257,1664.0
+131,Bushwick Av-Aberdeen St,Brooklyn,606503,1662.0
+191,88 St,Queens,600663,1646.0
+82,104 St,Queens,594501,1629.0
+220,155 St,Manhattan,589542,1615.0
+137,East 105 St,Brooklyn,577901,1583.0
+248,Avenue N,Brooklyn,575202,1576.0
+79,86 St,Brooklyn,573200,1570.0
+187,Shepherd Av,Brooklyn,571400,1565.0
+446,Morris Park,Bronx,562030,1540.0
+150,155 St,Manhattan,561729,1539.0
+443,Baychester Av,Bronx,561270,1538.0
+349,Junius St,Brooklyn,559735,1534.0
+417,Nereid Av,Bronx,557307,1527.0
+133,Atlantic Av,Brooklyn,545394,1494.0
+252,Avenue X,Brooklyn,534743,1465.0
+297,215 St,Manhattan,522093,1430.0
+88,Norwood Av,Brooklyn,521658,1429.0
+185,Liberty Av,Brooklyn,520101,1425.0
+249,Avenue P,Brooklyn,519212,1422.0
+80,121 St,Queens,510103,1398.0
+422,Burke Av,Bronx,509833,1397.0
+81,111 St,Queens,505793,1386.0
+351,Van Siclen Av,Brooklyn,505603,1385.0
+364,Zerega Av,Bronx,504294,1382.0
+420,219 St,Bronx,502145,1376.0
+194,111 St,Queens,466360,1278.0
+425,Bronx Park East,Bronx,462568,1267.0
+89,Cleveland St,Brooklyn,456719,1251.0
+84,85 St-Forest Pkwy,Queens,452643,1240.0
+282,21 St,Queens,428663,1174.0
+91,Alabama Av,Brooklyn,427147,1170.0
+362,Middletown Rd,Bronx,426980,1170.0
+62,55 St,Brooklyn,427086,1170.0
+251,Avenue U,Brooklyn,410023,1123.0
+141,Park Pl,Brooklyn,395373,1083.0
+370,Whitlock Av,Bronx,381304,1045.0
+193,104 St,Queens,380745,1043.0
+374,E 143 St-St Mary's St,Bronx,346177,948.0
+246,Avenue I,Brooklyn,341689,936.0
+204,Beach 67 St,Queens,337270,924.0
+253,Neptune Av,Brooklyn,331217,907.0
+247,Bay Pkwy,Brooklyn,233238,639.0
+205,Beach 60 St,Queens,225268,617.0
+208,Beach 25 St,Queens,202250,554.0
+196,Aqueduct Racetrack,Queens,175725,481.0
+197,Aqueduct-N Conduit Av,Queens,175361,480.0
+200,Beach 90 St,Queens,141157,387.0
+86,Cypress Hills,Brooklyn,139375,382.0
+203,Rockaway Park-Beach 116 St,Queens,120448,330.0
+207,Beach 36 St,Queens,106118,291.0
+206,Beach 44 St,Queens,102140,280.0
+201,Beach 98 St,Queens,73487,201.0
+202,Beach 105 St,Queens,54374,149.0
+199,Broad Channel,Queens,42711,117.0
