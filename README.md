@@ -101,13 +101,9 @@ Repository structure
 Data sources and licences
 
 | Dataset | Source | Licence |
-
 |---|---|---|
-
 | MTA Subway Hourly Ridership 2020–2024 and Beginning 2025 | data.ny.gov/d/wujg-7c2s · data.ny.gov/d/5wq4-mkjj | OPEN-NY Terms of Use |
-
 | MTA Subway Stations | data.ny.gov/d/39hk-dx4f | OPEN-NY Terms of Use |
-
 | NOAA Local Climatological Data v2, Central Park (USW00094728) | ncei.noaa.gov | U.S. public domain, cite NOAA |
 
 
